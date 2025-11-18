@@ -59,7 +59,6 @@ Además, las imágenes obtenidas desde Google Books permiten **mantener un catá
 
 - Tecnologías:
 
-  - `spaCy`
   - `transformers`
 
 ### 5. **Obtención y Estandarización de Imágenes**
